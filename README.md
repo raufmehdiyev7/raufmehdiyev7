@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rauf Mehdiyev
 
-<!--
-**raufmehdiyev7/raufmehdiyev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Electronic Engineering Student | Politecnico di Torino, Italy**
 
-Here are some ideas to get you started:
+Interested in Embedded Systems, Low-Level Firmware Development, and Hardware-Software Integration. Currently developing practical skills in Embedded C and STM32 microcontroller programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Background
+C · Python · Raspberry pi · ESP8266 · ESP32
+
+### Current Focus
+- Embedded C and STM32 Firmware Development
+- Microcontroller Peripherals and Register-Level Programming
+- GPIO, UART, SPI and I2C Communication
+- Peripheral Driver Development
+
+### Education
+MSc in Electronic Engineering  
+Politecnico di Torino, Italy | 2026–Present
